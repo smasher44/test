@@ -29,7 +29,7 @@ import { coop_id_laman } from './constants/apiTestData'
 // import 'react-datetime/css/react-datetime.css';
 // import 'antd/dist/antd.css';
 
-// middlewares
+// middlewaresasdasd
 // const history = createHashHistory()
 // const sagaMiddleware = createSagaMiddleware()
 // const routeMiddleware = routerMiddleware(history)
