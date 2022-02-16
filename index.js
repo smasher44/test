@@ -17,7 +17,7 @@ import Router from './router';
 import * as serviceWorker from './serviceWorker';
 import sagas from 'store/sagas';
 
-// mocking asdasdasdasdasdasd
+// mocking asdasdasdasdasdasdasdasdasd
 import 'services/axios/fakeApi';
 
 // import 'antd/lib/style/index.less' // antd core styles
