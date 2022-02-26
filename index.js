@@ -31,7 +31,7 @@ import { coop_id_laman } from './constants/apiTestData'
 
 // middlewaresasdasd
 // const history = createHashHistory()
-// const sagaMiddleware = createSagaMiddleware()
+// const sagaMiddleware = createSagaMasdasdasdasdasdasdadsasd
 // const routeMiddleware = routerMiddleware(history)
 // const middlewares = [sagaMiddleware, routeMiddleware]
 // if (process.env.NODE_ENV === 'development') {
