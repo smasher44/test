@@ -29,6 +29,20 @@ import { coop_id_laman } from './constants/apiTestData'
 // import 'react-datetime/css/react-datetime.css';
 // import 'antd/dist/antd.css';
 
+<<<<<<< HEAD
+// middlewaresasdasd
+// const history = createHashHistory()
+// const sagaMiddleware = createSagaMasdasdasdasdasdasdadsasd
+// const routeMiddleware = routerMiddleware(history)
+// const middlewares = [sagaMiddleware, routeMiddleware]
+// if (process.env.NODE_ENV === 'development') {
+//   middlewares.push(logger)
+// }
+// const store = createStore(reducers(history), compose(applyMiddleware(...middlewares)))
+// axios.defaults.baseURL = "http://api.arcs.ph"
+// axios.defaults.baseURL = "https://api.picpabbmp.com/";
+=======
+>>>>>>> 829509e84d9782481c5917703c92baa8221553ee
 axios.defaults.baseURL = "https://api.arcs.ph"
 // axios.defaults.headers.common = {
 //     ["for-coop-id"]: coop_id_laman
